@@ -6,4 +6,4 @@ Ketchup
 
 Fromage
 
-![label image](burgerImg.jpg)
+![label image](hot_dog.webp)
