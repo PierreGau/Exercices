@@ -4,4 +4,4 @@ Jambon
 
 Beurre
 
-![label image](burgerImg.jpg)
+![label image](jambon_beurre.jpeg)
